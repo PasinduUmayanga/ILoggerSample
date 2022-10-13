@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32929.387
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILS.Api", "src\ILS.Api\ILS.Api.csproj", "{1886BCE8-4DEC-486C-BDDE-E3757F505B09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILS.Application", "src\ILS.Application\ILS.Application.csproj", "{9ACC74E9-1193-40DD-B79A-CCB6FFF02C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1886BCE8-4DEC-486C-BDDE-E3757F505B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1886BCE8-4DEC-486C-BDDE-E3757F505B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1886BCE8-4DEC-486C-BDDE-E3757F505B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACC74E9-1193-40DD-B79A-CCB6FFF02C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACC74E9-1193-40DD-B79A-CCB6FFF02C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACC74E9-1193-40DD-B79A-CCB6FFF02C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACC74E9-1193-40DD-B79A-CCB6FFF02C6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

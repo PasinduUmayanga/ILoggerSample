@@ -1,0 +1,12 @@
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\bin\Debug\net6.0\ILS.Application.deps.json
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\bin\Debug\net6.0\ILS.Application.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\bin\Debug\net6.0\ref\ILS.Application.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\bin\Debug\net6.0\ILS.Application.pdb
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.csproj.AssemblyReference.cache
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.AssemblyInfoInputs.cache
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.AssemblyInfo.cs
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ref\ILS.Application.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Application\obj\Debug\net6.0\ILS.Application.pdb

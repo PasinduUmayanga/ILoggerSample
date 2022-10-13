@@ -25,3 +25,7 @@ D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\obj\Debug\net6.0\ILS.Api.d
 D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\obj\Debug\net6.0\ref\ILS.Api.dll
 D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\obj\Debug\net6.0\ILS.Api.pdb
 D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\obj\Debug\net6.0\ILS.Api.genruntimeconfig.cache
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\bin\Debug\net6.0\ILS.Application.dll
+D:\Projects\GitHub Projects\ILoggerSample\src\ILS.Api\bin\Debug\net6.0\ILS.Application.pdb
