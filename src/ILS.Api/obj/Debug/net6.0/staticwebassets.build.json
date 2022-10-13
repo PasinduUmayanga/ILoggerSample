@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eXEUYIu8+KVmO6kp+BkeMLl7+JeglujH/XCQlLdGgHE=",
+  "Source": "ILS.Api",
+  "BasePath": "_content/ILS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
